@@ -1,0 +1,15 @@
+C:\Users\a847065\source\repos\ProgramacionAvanzada1\ProgramacionAvanzada1\bin\Debug\net6.0\ProgramacionAvanzada1.exe
+C:\Users\a847065\source\repos\ProgramacionAvanzada1\ProgramacionAvanzada1\bin\Debug\net6.0\ProgramacionAvanzada1.deps.json
+C:\Users\a847065\source\repos\ProgramacionAvanzada1\ProgramacionAvanzada1\bin\Debug\net6.0\ProgramacionAvanzada1.runtimeconfig.json
+C:\Users\a847065\source\repos\ProgramacionAvanzada1\ProgramacionAvanzada1\bin\Debug\net6.0\ProgramacionAvanzada1.dll
+C:\Users\a847065\source\repos\ProgramacionAvanzada1\ProgramacionAvanzada1\bin\Debug\net6.0\ref\ProgramacionAvanzada1.dll
+C:\Users\a847065\source\repos\ProgramacionAvanzada1\ProgramacionAvanzada1\bin\Debug\net6.0\ProgramacionAvanzada1.pdb
+C:\Users\a847065\source\repos\ProgramacionAvanzada1\ProgramacionAvanzada1\obj\Debug\net6.0\ProgramacionAvanzada1.csproj.AssemblyReference.cache
+C:\Users\a847065\source\repos\ProgramacionAvanzada1\ProgramacionAvanzada1\obj\Debug\net6.0\ProgramacionAvanzada1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a847065\source\repos\ProgramacionAvanzada1\ProgramacionAvanzada1\obj\Debug\net6.0\ProgramacionAvanzada1.AssemblyInfoInputs.cache
+C:\Users\a847065\source\repos\ProgramacionAvanzada1\ProgramacionAvanzada1\obj\Debug\net6.0\ProgramacionAvanzada1.AssemblyInfo.cs
+C:\Users\a847065\source\repos\ProgramacionAvanzada1\ProgramacionAvanzada1\obj\Debug\net6.0\ProgramacionAvanzada1.csproj.CoreCompileInputs.cache
+C:\Users\a847065\source\repos\ProgramacionAvanzada1\ProgramacionAvanzada1\obj\Debug\net6.0\ProgramacionAvanzada1.dll
+C:\Users\a847065\source\repos\ProgramacionAvanzada1\ProgramacionAvanzada1\obj\Debug\net6.0\ref\ProgramacionAvanzada1.dll
+C:\Users\a847065\source\repos\ProgramacionAvanzada1\ProgramacionAvanzada1\obj\Debug\net6.0\ProgramacionAvanzada1.pdb
+C:\Users\a847065\source\repos\ProgramacionAvanzada1\ProgramacionAvanzada1\obj\Debug\net6.0\ProgramacionAvanzada1.genruntimeconfig.cache
